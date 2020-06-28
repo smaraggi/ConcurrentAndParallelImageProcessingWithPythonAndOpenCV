@@ -1,4 +1,4 @@
-# ConcurrentAndParallelImageProcessingWithPythonAndOpenCV
+# Concurrent And Parallel Image Processing With Python And OpenCV
 Demos for parallelization with processes and concurrency with threads for image processing with Python and OpenCV
 
 This is a README file.
