@@ -4,7 +4,9 @@ Demos for parallelization with processes and concurrency with threads for image 
 This is a README file.
 
 Author: Santiago Maraggi
+
 Licence: MIT (free to use, modify, distribute, etc.)
+
 Contact: smaraggi [at] gmail [dot] com
 
 If these examples were useful for your project, any mention is welcome.
